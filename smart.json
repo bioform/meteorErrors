@@ -1,0 +1,10 @@
+{
+	"name": "jzgoda-errors",
+	"description": "A pattern to display application errors to the user (from Discover Meteor book)",
+	"homepage": "https://github.com/jzgoda/meteorErrors",
+	"author": "Jon Zgoda <jon@zgoda.us>",
+	"version": "0.1.0",
+	"git": "https://github.com/jzgoda/meteorErrors.git",
+	"packages": {
+	}
+}
